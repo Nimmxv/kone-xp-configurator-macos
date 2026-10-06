@@ -1,0 +1,8 @@
+.DS_Store
+build/
+outputs/
+run-v*/
+backups/
+work/
+*.zip
+*.json
